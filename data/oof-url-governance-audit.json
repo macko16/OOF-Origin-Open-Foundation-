@@ -1,12 +1,12 @@
 {
   "schemaVersion": "1.0",
   "summary": {
-    "publicUrls": 1677,
-    "preservedUrls": 1677,
+    "publicUrls": 1684,
+    "preservedUrls": 1684,
     "activatedAliases": 0,
     "migrationCandidates": 66,
-    "explicitVersionRecords": 1108,
-    "legacyUrlsWithRisks": 733,
+    "explicitVersionRecords": 1113,
+    "legacyUrlsWithRisks": 740,
     "renamedUrls": 0
   },
   "decision": "KEEP+OPTIMIZE",

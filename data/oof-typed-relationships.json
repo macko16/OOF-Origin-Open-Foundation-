@@ -19028,6 +19028,11 @@
     {
       "source": "https://originopenfoundation.org/oof-structured-architecture-index.html",
       "type": "relatedLink",
+      "target": "https://originopenfoundation.org/Simulation%20Evidence%20%26%20Reliance%20Boundary%20Standard%20-%20(SERBS).html"
+    },
+    {
+      "source": "https://originopenfoundation.org/oof-structured-architecture-index.html",
+      "type": "relatedLink",
       "target": "https://originopenfoundation.org/Simulation%20Lifecycle%20%26%20Resimulation%20Standard%20-%20(SLRS).html"
     },
     {
@@ -19696,6 +19701,36 @@
       "target": "https://originopenfoundation.org/About%20Simulation%20Assumption%20Standard%20-%20(SAS).html"
     },
     {
+      "source": "https://originopenfoundation.org/Simulation%20Evidence%20%26%20Reliance%20Boundary%20Standard%20-%20(SERBS).html",
+      "type": "moduleFlow",
+      "target": "https://originopenfoundation.org/SEQM.html"
+    },
+    {
+      "source": "https://originopenfoundation.org/Simulation%20Evidence%20%26%20Reliance%20Boundary%20Standard%20-%20(SERBS).html",
+      "type": "moduleFlow",
+      "target": "https://originopenfoundation.org/SEWM.html"
+    },
+    {
+      "source": "https://originopenfoundation.org/Simulation%20Evidence%20%26%20Reliance%20Boundary%20Standard%20-%20(SERBS).html",
+      "type": "moduleFlow",
+      "target": "https://originopenfoundation.org/SRBM.html"
+    },
+    {
+      "source": "https://originopenfoundation.org/Simulation%20Evidence%20%26%20Reliance%20Boundary%20Standard%20-%20(SERBS).html",
+      "type": "moduleFlow",
+      "target": "https://originopenfoundation.org/SUM.html"
+    },
+    {
+      "source": "https://originopenfoundation.org/Simulation%20Evidence%20%26%20Reliance%20Boundary%20Standard%20-%20(SERBS).html",
+      "type": "moduleFlow",
+      "target": "https://originopenfoundation.org/SVIM.html"
+    },
+    {
+      "source": "https://originopenfoundation.org/Simulation%20Evidence%20%26%20Reliance%20Boundary%20Standard%20-%20(SERBS).html",
+      "type": "relatedDocument",
+      "target": "https://originopenfoundation.org/About%20Simulation%20Evidence%20%26%20Reliance%20Boundary%20Standard%20-%20(SERBS).html"
+    },
+    {
       "source": "https://originopenfoundation.org/Simulation%20Execution%20Standard%20-%20(SES).html",
       "type": "moduleFlow",
       "target": "https://originopenfoundation.org/SIM.html"
@@ -20348,6 +20383,11 @@
     {
       "source": "https://originopenfoundation.org/standardinde.html",
       "type": "relatedLink",
+      "target": "https://originopenfoundation.org/Simulation%20Evidence%20%26%20Reliance%20Boundary%20Standard%20-%20(SERBS).html"
+    },
+    {
+      "source": "https://originopenfoundation.org/standardinde.html",
+      "type": "relatedLink",
       "target": "https://originopenfoundation.org/Simulation%20Lifecycle%20%26%20Resimulation%20Standard%20-%20(SLRS).html"
     },
     {
@@ -20939,6 +20979,11 @@
       "source": "https://originopenfoundation.org/Standards.html",
       "type": "relatedLink",
       "target": "https://originopenfoundation.org/Simulation-to-Reality%20Correlation%20Standard%20-%20(SRCS).html"
+    },
+    {
+      "source": "https://originopenfoundation.org/Standards.html",
+      "type": "relatedLink",
+      "target": "https://originopenfoundation.org/Simulation%20Evidence%20%26%20Reliance%20Boundary%20Standard%20-%20(SERBS).html"
     },
     {
       "source": "https://originopenfoundation.org/Standards.html",

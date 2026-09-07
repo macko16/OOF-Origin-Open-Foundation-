@@ -10447,6 +10447,16 @@
       "parentStandard": "Simulation Execution Standard (SES)"
     },
     {
+      "resourcePath": "SEQM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SEQM.html",
+      "resourceName": "Simulation Evidence Qualification Module (SEQM)",
+      "resourceIdentifier": "https://originopenfoundation.org/SEQM.html#webpage",
+      "version": "1.0",
+      "status": "Canonical · Open Standard",
+      "authorityState": "current",
+      "parentStandard": "Simulation Evidence & Reliance Boundary Standard (SERBS)"
+    },
+    {
       "resourcePath": "SEVM.html",
       "canonicalUrl": "https://originopenfoundation.org/SEVM.html",
       "resourceName": "Simulation Environment Versioning Module (SEVM)",
@@ -10455,6 +10465,16 @@
       "status": "Canonical · Open Module",
       "authorityState": "current",
       "parentStandard": "Simulation Model & Environment Standard (SMES)"
+    },
+    {
+      "resourcePath": "SEWM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SEWM.html",
+      "resourceName": "Simulation Evidence Weight Module (SEWM)",
+      "resourceIdentifier": "https://originopenfoundation.org/SEWM.html#webpage",
+      "version": "1.0",
+      "status": "Canonical · Open Standard",
+      "authorityState": "current",
+      "parentStandard": "Simulation Evidence & Reliance Boundary Standard (SERBS)"
     },
     {
       "resourcePath": "SEXM.html",
@@ -10663,6 +10683,16 @@
       "parentStandard": "Simulation-to-Reality Correlation Standard (SRCS)"
     },
     {
+      "resourcePath": "SRBM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SRBM.html",
+      "resourceName": "Simulation Reliance Boundary Module (SRBM)",
+      "resourceIdentifier": "https://originopenfoundation.org/SRBM.html#webpage",
+      "version": "1.0",
+      "status": "Canonical · Open Standard",
+      "authorityState": "current",
+      "parentStandard": "Simulation Evidence & Reliance Boundary Standard (SERBS)"
+    },
+    {
       "resourcePath": "SRCM.html",
       "canonicalUrl": "https://originopenfoundation.org/SRCM.html",
       "resourceName": "Simulation-Reality Comparison Module (SRCM) defines the governance",
@@ -10731,6 +10761,26 @@
       "status": "Canonical · Open Module",
       "authorityState": "current",
       "parentStandard": "Simulation Input & Data Standard (SIDS)"
+    },
+    {
+      "resourcePath": "SUM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SUM.html",
+      "resourceName": "Simulation Use Limitation Module (SUM)",
+      "resourceIdentifier": "https://originopenfoundation.org/SUM.html#webpage",
+      "version": "1.0",
+      "status": "Canonical · Open Standard",
+      "authorityState": "current",
+      "parentStandard": "Simulation Evidence & Reliance Boundary Standard (SERBS)"
+    },
+    {
+      "resourcePath": "SVIM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SVIM.html",
+      "resourceName": "Simulation Validation Interface Module (SVIM)",
+      "resourceIdentifier": "https://originopenfoundation.org/SVIM.html#webpage",
+      "version": "1.0",
+      "status": "Canonical · Open Standard",
+      "authorityState": "current",
+      "parentStandard": "Simulation Evidence & Reliance Boundary Standard (SERBS)"
     }
   ]
 }

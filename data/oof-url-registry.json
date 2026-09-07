@@ -30,6 +30,19 @@
       ]
     },
     {
+      "path": "About Simulation Evidence & Reliance Boundary Standard - (SERBS).html",
+      "canonicalUrl": "https://originopenfoundation.org/About%20Simulation%20Evidence%20%26%20Reliance%20Boundary%20Standard%20-%20(SERBS).html",
+      "storedCanonicalPath": "About Simulation Evidence & Reliance Boundary Standard - (SERBS).html",
+      "displayName": "About Simulation Evidence & Reliance Boundary Standard - (SERBS)",
+      "entityId": "https://originopenfoundation.org/About%20Simulation%20Evidence%20%26%20Reliance%20Boundary%20Standard%20-%20(SERBS).html#webpage",
+      "governanceAction": "KEEP+OPTIMIZE",
+      "legacyPathRisks": [
+        "uppercase",
+        "spaces",
+        "specialCharacters"
+      ]
+    },
+    {
       "path": "About Simulation Execution Standard - (SES).html",
       "canonicalUrl": "https://originopenfoundation.org/About%20Simulation%20Execution%20Standard%20-%20(SES).html",
       "storedCanonicalPath": "About Simulation Execution Standard - (SES).html",
@@ -16201,7 +16214,7 @@
       "path": "oof-structured-architecture-index.html",
       "canonicalUrl": "https://originopenfoundation.org/oof-structured-architecture-index.html",
       "storedCanonicalPath": "oof-structured-architecture-index.html",
-      "displayName": "SIMULOS® — Simulation Governance Architecture (11)",
+      "displayName": "SIMULOS® — Simulation Governance Architecture (12)",
       "entityId": "https://originopenfoundation.org/oof-structured-architecture-index.html#webpage",
       "governanceAction": "KEEP+OPTIMIZE",
       "legacyPathRisks": []
@@ -16471,11 +16484,33 @@
       ]
     },
     {
+      "path": "SEQM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SEQM.html",
+      "storedCanonicalPath": "SEQM.html",
+      "displayName": "Simulation Evidence Qualification Module (SEQM)",
+      "entityId": "https://originopenfoundation.org/SEQM.html#webpage",
+      "governanceAction": "KEEP+OPTIMIZE",
+      "legacyPathRisks": [
+        "uppercase"
+      ]
+    },
+    {
       "path": "SEVM.html",
       "canonicalUrl": "https://originopenfoundation.org/SEVM.html",
       "storedCanonicalPath": "SEVM.html",
       "displayName": "Simulation Environment Versioning Module (SEVM)",
       "entityId": "https://originopenfoundation.org/SEVM.html#webpage",
+      "governanceAction": "KEEP+OPTIMIZE",
+      "legacyPathRisks": [
+        "uppercase"
+      ]
+    },
+    {
+      "path": "SEWM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SEWM.html",
+      "storedCanonicalPath": "SEWM.html",
+      "displayName": "Simulation Evidence Weight Module (SEWM)",
+      "entityId": "https://originopenfoundation.org/SEWM.html#webpage",
       "governanceAction": "KEEP+OPTIMIZE",
       "legacyPathRisks": [
         "uppercase"
@@ -16520,6 +16555,19 @@
       "storedCanonicalPath": "Simulation Assumption Standard - (SAS).html",
       "displayName": "Simulation Assumption Standard - (SAS)",
       "entityId": "https://originopenfoundation.org/Simulation%20Assumption%20Standard%20-%20(SAS).html#webpage",
+      "governanceAction": "KEEP+OPTIMIZE",
+      "legacyPathRisks": [
+        "uppercase",
+        "spaces",
+        "specialCharacters"
+      ]
+    },
+    {
+      "path": "Simulation Evidence & Reliance Boundary Standard - (SERBS).html",
+      "canonicalUrl": "https://originopenfoundation.org/Simulation%20Evidence%20%26%20Reliance%20Boundary%20Standard%20-%20(SERBS).html",
+      "storedCanonicalPath": "Simulation Evidence & Reliance Boundary Standard - (SERBS).html",
+      "displayName": "Simulation Evidence & Reliance Boundary Standard - (SERBS)",
+      "entityId": "https://originopenfoundation.org/Simulation%20Evidence%20%26%20Reliance%20Boundary%20Standard%20-%20(SERBS).html#webpage",
       "governanceAction": "KEEP+OPTIMIZE",
       "legacyPathRisks": [
         "uppercase",
@@ -16830,6 +16878,17 @@
       ]
     },
     {
+      "path": "SRBM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SRBM.html",
+      "storedCanonicalPath": "SRBM.html",
+      "displayName": "Simulation Reliance Boundary Module (SRBM)",
+      "entityId": "https://originopenfoundation.org/SRBM.html#webpage",
+      "governanceAction": "KEEP+OPTIMIZE",
+      "legacyPathRisks": [
+        "uppercase"
+      ]
+    },
+    {
       "path": "SRCM.html",
       "canonicalUrl": "https://originopenfoundation.org/SRCM.html",
       "storedCanonicalPath": "SRCM.html",
@@ -16930,6 +16989,28 @@
       "storedCanonicalPath": "STDM.html",
       "displayName": "Simulation Temporal Data Module (STDM)",
       "entityId": "https://originopenfoundation.org/STDM.html#webpage",
+      "governanceAction": "KEEP+OPTIMIZE",
+      "legacyPathRisks": [
+        "uppercase"
+      ]
+    },
+    {
+      "path": "SUM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SUM.html",
+      "storedCanonicalPath": "SUM.html",
+      "displayName": "Simulation Use Limitation Module (SUM)",
+      "entityId": "https://originopenfoundation.org/SUM.html#webpage",
+      "governanceAction": "KEEP+OPTIMIZE",
+      "legacyPathRisks": [
+        "uppercase"
+      ]
+    },
+    {
+      "path": "SVIM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SVIM.html",
+      "storedCanonicalPath": "SVIM.html",
+      "displayName": "Simulation Validation Interface Module (SVIM)",
+      "entityId": "https://originopenfoundation.org/SVIM.html#webpage",
       "governanceAction": "KEEP+OPTIMIZE",
       "legacyPathRisks": [
         "uppercase"
