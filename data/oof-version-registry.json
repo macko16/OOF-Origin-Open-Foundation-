@@ -10216,6 +10216,521 @@
       "version": "1.0",
       "status": "Canonical · Binding",
       "authorityState": "current"
+    },
+    {
+      "resourcePath": "RAM.html",
+      "canonicalUrl": "https://originopenfoundation.org/RAM.html",
+      "resourceName": "Reality Abstraction Module (RAM)",
+      "resourceIdentifier": "https://originopenfoundation.org/RAM.html#webpage",
+      "version": "1.0",
+      "status": "Canonical · Open Module",
+      "authorityState": "current",
+      "parentStandard": "Reality Representation Standard (RRS)"
+    },
+    {
+      "resourcePath": "Reality Representation Standard - (RRS).html",
+      "canonicalUrl": "https://originopenfoundation.org/Reality%20Representation%20Standard%20-%20(RRS).html",
+      "resourceName": "Reality Representation Standard - (RRS)",
+      "resourceIdentifier": "https://originopenfoundation.org/Reality%20Representation%20Standard%20-%20(RRS).html#webpage",
+      "version": "1.0",
+      "status": "Canonical · Open Standard",
+      "authorityState": "current"
+    },
+    {
+      "resourcePath": "RFM.html",
+      "canonicalUrl": "https://originopenfoundation.org/RFM.html",
+      "resourceName": "Representation Fidelity Module (RFM)",
+      "resourceIdentifier": "https://originopenfoundation.org/RFM.html#webpage",
+      "version": "1.0",
+      "status": "Canonical · Open Module",
+      "authorityState": "current",
+      "parentStandard": "Reality Representation Standard (RRS)"
+    },
+    {
+      "resourcePath": "RLM.html",
+      "canonicalUrl": "https://originopenfoundation.org/RLM.html",
+      "resourceName": "Representation Limitation Module (RLM)",
+      "resourceIdentifier": "https://originopenfoundation.org/RLM.html#webpage",
+      "version": "1.0",
+      "status": "Canonical · Open Module",
+      "authorityState": "current",
+      "parentStandard": "Reality Representation Standard (RRS)"
+    },
+    {
+      "resourcePath": "RRM.html",
+      "canonicalUrl": "https://originopenfoundation.org/RRM.html",
+      "resourceName": "Representation Resolution Module (RRM)",
+      "resourceIdentifier": "https://originopenfoundation.org/RRM.html#webpage",
+      "version": "1.0",
+      "status": "Canonical · Open Module",
+      "authorityState": "current",
+      "parentStandard": "Reality Representation Standard (RRS)"
+    },
+    {
+      "resourcePath": "RSM.html",
+      "canonicalUrl": "https://originopenfoundation.org/RSM.html",
+      "resourceName": "Reality Selection Module (RSM)",
+      "resourceIdentifier": "https://originopenfoundation.org/RSM.html#webpage",
+      "version": "1.0",
+      "status": "Canonical · Open Module",
+      "authorityState": "current",
+      "parentStandard": "Reality Representation Standard (RRS)"
+    },
+    {
+      "resourcePath": "SABM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SABM.html",
+      "resourceName": "Simulation Assumption Basis Module (SABM)",
+      "resourceIdentifier": "https://originopenfoundation.org/SABM.html#webpage",
+      "version": "1.0",
+      "status": "Canonical · Open Module",
+      "authorityState": "current",
+      "parentStandard": "Simulation Assumption Standard (SAS)"
+    },
+    {
+      "resourcePath": "SACM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SACM.html",
+      "resourceName": "Simulation Applicability Context Module (SACM)",
+      "resourceIdentifier": "https://originopenfoundation.org/SACM.html#webpage",
+      "version": "1.0",
+      "status": "Canonical · Open Module",
+      "authorityState": "current",
+      "parentStandard": "Simulation Purpose & Scope Standard (SPSS)"
+    },
+    {
+      "resourcePath": "SADM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SADM.html",
+      "resourceName": "Simulation Assumption Dependency Module (SADM)",
+      "resourceIdentifier": "https://originopenfoundation.org/SADM.html#webpage",
+      "version": "1.0",
+      "status": "Canonical · Open Module",
+      "authorityState": "current",
+      "parentStandard": "Simulation Assumption Standard (SAS)"
+    },
+    {
+      "resourcePath": "SAIM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SAIM.html",
+      "resourceName": "Simulation Assumption Identification Module (SAIM)",
+      "resourceIdentifier": "https://originopenfoundation.org/SAIM.html#webpage",
+      "version": "1.0",
+      "status": "Canonical · Open Module",
+      "authorityState": "current",
+      "parentStandard": "Simulation Assumption Standard (SAS)"
+    },
+    {
+      "resourcePath": "SALM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SALM.html",
+      "resourceName": "Simulation Assumption Limitation Module (SALM)",
+      "resourceIdentifier": "https://originopenfoundation.org/SALM.html#webpage",
+      "version": "1.0",
+      "status": "Canonical · Open Module",
+      "authorityState": "current",
+      "parentStandard": "Simulation Assumption Standard (SAS)"
+    },
+    {
+      "resourcePath": "SAUM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SAUM.html",
+      "resourceName": "Simulation Assumption Uncertainty Module (SAUM)",
+      "resourceIdentifier": "https://originopenfoundation.org/SAUM.html#webpage",
+      "version": "1.0",
+      "status": "Canonical · Open Module",
+      "authorityState": "current",
+      "parentStandard": "Simulation Assumption Standard (SAS)"
+    },
+    {
+      "resourcePath": "SBIM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SBIM.html",
+      "resourceName": "Simulation Boundary Interaction Module (SBIM)",
+      "resourceIdentifier": "https://originopenfoundation.org/SBIM.html#webpage",
+      "version": "1.0",
+      "status": "Canonical · Open Module",
+      "authorityState": "current",
+      "parentStandard": "Simulation Model & Environment Standard (SMES)"
+    },
+    {
+      "resourcePath": "SCCM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SCCM.html",
+      "resourceName": "Scenario Coverage Module (SCCM)",
+      "resourceIdentifier": "https://originopenfoundation.org/SCCM.html#webpage",
+      "version": "1.0",
+      "status": "Canonical · Open Module",
+      "authorityState": "current",
+      "parentStandard": "Simulation Scenario Standard (SSS)"
+    },
+    {
+      "resourcePath": "SCIM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SCIM.html",
+      "resourceName": "Scenario Identification Module (SCIM)",
+      "resourceIdentifier": "https://originopenfoundation.org/SCIM.html#webpage",
+      "version": "1.0",
+      "status": "Canonical · Open Module",
+      "authorityState": "current",
+      "parentStandard": "Simulation Scenario Standard (SSS)"
+    },
+    {
+      "resourcePath": "SCUM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SCUM.html",
+      "resourceName": "Correlation Uncertainty Module (SCUM) defines the governance conditions",
+      "resourceIdentifier": "https://originopenfoundation.org/SCUM.html#webpage",
+      "version": "1.0",
+      "status": "Canonical · Open Module",
+      "authorityState": "current",
+      "parentStandard": "Simulation-to-Reality Correlation Standard (SRCS)"
+    },
+    {
+      "resourcePath": "SCVM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SCVM.html",
+      "resourceName": "Scenario Variation Module (SCVM)",
+      "resourceIdentifier": "https://originopenfoundation.org/SCVM.html#webpage",
+      "version": "1.0",
+      "status": "Canonical · Open Module",
+      "authorityState": "current",
+      "parentStandard": "Simulation Scenario Standard (SSS)"
+    },
+    {
+      "resourcePath": "SDMM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SDMM.html",
+      "resourceName": "Simulation-Reality Deviation Module (SDMM) defines the governance",
+      "resourceIdentifier": "https://originopenfoundation.org/SDMM.html#webpage",
+      "version": "1.0",
+      "status": "Canonical · Open Module",
+      "authorityState": "current",
+      "parentStandard": "Simulation-to-Reality Correlation Standard (SRCS)"
+    },
+    {
+      "resourcePath": "SDPM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SDPM.html",
+      "resourceName": "Simulation Depth & Precision Module (SDPM)",
+      "resourceIdentifier": "https://originopenfoundation.org/SDPM.html#webpage",
+      "version": "1.0",
+      "status": "Canonical · Open Module",
+      "authorityState": "current",
+      "parentStandard": "Simulation Purpose & Scope Standard (SPSS)"
+    },
+    {
+      "resourcePath": "SDRM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SDRM.html",
+      "resourceName": "Simulation Data Representativeness Module (SDRM)",
+      "resourceIdentifier": "https://originopenfoundation.org/SDRM.html#webpage",
+      "version": "1.0",
+      "status": "Canonical · Open Module",
+      "authorityState": "current",
+      "parentStandard": "Simulation Input & Data Standard (SIDS)"
+    },
+    {
+      "resourcePath": "SDTM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SDTM.html",
+      "resourceName": "Simulation Data Transformation Module (SDTM)",
+      "resourceIdentifier": "https://originopenfoundation.org/SDTM.html#webpage",
+      "version": "1.0",
+      "status": "Canonical · Open Module",
+      "authorityState": "current",
+      "parentStandard": "Simulation Input & Data Standard (SIDS)"
+    },
+    {
+      "resourcePath": "SECM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SECM.html",
+      "resourceName": "Simulation Execution Control Module (SECM)",
+      "resourceIdentifier": "https://originopenfoundation.org/SECM.html#webpage",
+      "version": "1.0",
+      "status": "Canonical · Open Module",
+      "authorityState": "current",
+      "parentStandard": "Simulation Execution Standard (SES)"
+    },
+    {
+      "resourcePath": "SEDM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SEDM.html",
+      "resourceName": "Simulation Execution Documentation Module (SEDM)",
+      "resourceIdentifier": "https://originopenfoundation.org/SEDM.html#webpage",
+      "version": "1.0",
+      "status": "Canonical · Open Module",
+      "authorityState": "current",
+      "parentStandard": "Simulation Execution Standard (SES)"
+    },
+    {
+      "resourcePath": "SEVM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SEVM.html",
+      "resourceName": "Simulation Environment Versioning Module (SEVM)",
+      "resourceIdentifier": "https://originopenfoundation.org/SEVM.html#webpage",
+      "version": "1.0",
+      "status": "Canonical · Open Module",
+      "authorityState": "current",
+      "parentStandard": "Simulation Model & Environment Standard (SMES)"
+    },
+    {
+      "resourcePath": "SEXM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SEXM.html",
+      "resourceName": "Simulation Exclusion Module (SEXM)",
+      "resourceIdentifier": "https://originopenfoundation.org/SEXM.html#webpage",
+      "version": "1.0",
+      "status": "Canonical · Open Module",
+      "authorityState": "current",
+      "parentStandard": "Simulation Purpose & Scope Standard (SPSS)"
+    },
+    {
+      "resourcePath": "SIIM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SIIM.html",
+      "resourceName": "Simulation Input Identification Module (SIIM)",
+      "resourceIdentifier": "https://originopenfoundation.org/SIIM.html#webpage",
+      "version": "1.0",
+      "status": "Canonical · Open Module",
+      "authorityState": "current",
+      "parentStandard": "Simulation Input & Data Standard (SIDS)"
+    },
+    {
+      "resourcePath": "SIM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SIM.html",
+      "resourceName": "Simulation Instantiation Module (SIM)",
+      "resourceIdentifier": "https://originopenfoundation.org/SIM.html#webpage",
+      "version": "1.0",
+      "status": "Canonical · Open Module",
+      "authorityState": "current",
+      "parentStandard": "Simulation Execution Standard (SES)"
+    },
+    {
+      "resourcePath": "Simulation Assumption Standard - (SAS).html",
+      "canonicalUrl": "https://originopenfoundation.org/Simulation%20Assumption%20Standard%20-%20(SAS).html",
+      "resourceName": "Simulation Assumption Standard - (SAS)",
+      "resourceIdentifier": "https://originopenfoundation.org/Simulation%20Assumption%20Standard%20-%20(SAS).html#webpage",
+      "version": "1.0",
+      "status": "Canonical · Open Standard",
+      "authorityState": "current"
+    },
+    {
+      "resourcePath": "Simulation Lifecycle & Resimulation Standard - (SLRS).html",
+      "canonicalUrl": "https://originopenfoundation.org/Simulation%20Lifecycle%20%26%20Resimulation%20Standard%20-%20(SLRS).html",
+      "resourceName": "Simulation Lifecycle & Resimulation Standard - (SLRS)",
+      "resourceIdentifier": "https://originopenfoundation.org/Simulation%20Lifecycle%20%26%20Resimulation%20Standard%20-%20(SLRS).html#webpage",
+      "version": "1.0",
+      "status": "Canonical · Open Standard",
+      "authorityState": "current"
+    },
+    {
+      "resourcePath": "Simulation Model & Environment Standard - (SMES).html",
+      "canonicalUrl": "https://originopenfoundation.org/Simulation%20Model%20%26%20Environment%20Standard%20-%20(SMES).html",
+      "resourceName": "Simulation Model & Environment Standard - (SMES)",
+      "resourceIdentifier": "https://originopenfoundation.org/Simulation%20Model%20%26%20Environment%20Standard%20-%20(SMES).html#webpage",
+      "version": "1.0",
+      "status": "Canonical · Open Standard",
+      "authorityState": "current"
+    },
+    {
+      "resourcePath": "Simulation Object Standard - (SOS).html",
+      "canonicalUrl": "https://originopenfoundation.org/Simulation%20Object%20Standard%20-%20(SOS).html",
+      "resourceName": "Simulation Object Standard - (SOS)",
+      "resourceIdentifier": "https://originopenfoundation.org/Simulation%20Object%20Standard%20-%20(SOS).html#webpage",
+      "version": "1.0",
+      "status": "Canonical · Open Standard",
+      "authorityState": "current",
+      "parentStandard": "Simulation Object Standard (SOS)"
+    },
+    {
+      "resourcePath": "Simulation Purpose & Scope Standard - (SPSS).html",
+      "canonicalUrl": "https://originopenfoundation.org/Simulation%20Purpose%20%26%20Scope%20Standard%20-%20(SPSS).html",
+      "resourceName": "Simulation Purpose & Scope Standard - (SPSS)",
+      "resourceIdentifier": "https://originopenfoundation.org/Simulation%20Purpose%20%26%20Scope%20Standard%20-%20(SPSS).html#webpage",
+      "version": "1.0",
+      "status": "Canonical · Open Standard",
+      "authorityState": "current"
+    },
+    {
+      "resourcePath": "SIUM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SIUM.html",
+      "resourceName": "Simulation Input Uncertainty Module (SIUM)",
+      "resourceIdentifier": "https://originopenfoundation.org/SIUM.html#webpage",
+      "version": "1.0",
+      "status": "Canonical · Open Module",
+      "authorityState": "current",
+      "parentStandard": "Simulation Input & Data Standard (SIDS)"
+    },
+    {
+      "resourcePath": "SLMM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SLMM.html",
+      "resourceName": "Simulation Lifecycle Monitoring Module (SLMM)",
+      "resourceIdentifier": "https://originopenfoundation.org/SLMM.html#webpage",
+      "version": "1.0",
+      "status": "Canonical · Open Standard",
+      "authorityState": "current",
+      "parentStandard": "Simulation Lifecycle & Resimulation Standard (SLRS)"
+    },
+    {
+      "resourcePath": "SMMM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SMMM.html",
+      "resourceName": "Simulation Model Structure Module (SMMM)",
+      "resourceIdentifier": "https://originopenfoundation.org/SMMM.html#webpage",
+      "version": "1.0",
+      "status": "Canonical · Open Module",
+      "authorityState": "current",
+      "parentStandard": "Simulation Model & Environment Standard (SMES)"
+    },
+    {
+      "resourcePath": "SOBM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SOBM.html",
+      "resourceName": "Simulation Object Boundary Module (SOBM)",
+      "resourceIdentifier": "https://originopenfoundation.org/SOBM.html#webpage",
+      "version": "1.0",
+      "status": "Canonical · Open Module",
+      "authorityState": "current",
+      "parentStandard": "Simulation Object Standard (SOS)"
+    },
+    {
+      "resourcePath": "SOCM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SOCM.html",
+      "resourceName": "Simulation Object Configuration Module (SOCM)",
+      "resourceIdentifier": "https://originopenfoundation.org/SOCM.html#webpage",
+      "version": "1.0",
+      "status": "Canonical · Open Module",
+      "authorityState": "current",
+      "parentStandard": "Simulation Object Standard (SOS)"
+    },
+    {
+      "resourcePath": "SODM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SODM.html",
+      "resourceName": "Simulation Object Documentation Module (SODM)",
+      "resourceIdentifier": "https://originopenfoundation.org/SODM.html#webpage",
+      "version": "1.0",
+      "status": "Canonical · Open Module",
+      "authorityState": "current",
+      "parentStandard": "Simulation Object Standard (SOS)"
+    },
+    {
+      "resourcePath": "SOIM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SOIM.html",
+      "resourceName": "Simulation Object Identification Module (SOIM)",
+      "resourceIdentifier": "https://originopenfoundation.org/SOIM.html#webpage",
+      "version": "1.0",
+      "status": "Canonical · Open Module",
+      "authorityState": "current",
+      "parentStandard": "Simulation Object Standard (SOS)"
+    },
+    {
+      "resourcePath": "SOLM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SOLM.html",
+      "resourceName": "Simulation Output Limitation Module (SOLM)",
+      "resourceIdentifier": "https://originopenfoundation.org/SOLM.html#webpage",
+      "version": "1.0",
+      "status": "Canonical · Open Module",
+      "authorityState": "current",
+      "parentStandard": "Simulation Output Governance Standard (SOGS)"
+    },
+    {
+      "resourcePath": "SOM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SOM.html",
+      "resourceName": "Simulation Observation Module (SOM)",
+      "resourceIdentifier": "https://originopenfoundation.org/SOM.html#webpage",
+      "version": "1.0",
+      "status": "Canonical · Open Module",
+      "authorityState": "current",
+      "parentStandard": "Simulation Execution Standard (SES)"
+    },
+    {
+      "resourcePath": "SOVM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SOVM.html",
+      "resourceName": "Simulation Object Versioning Module (SOVM)",
+      "resourceIdentifier": "https://originopenfoundation.org/SOVM.html#webpage",
+      "version": "1.0",
+      "status": "Canonical · Open Module",
+      "authorityState": "current",
+      "parentStandard": "Simulation Object Standard (SOS)"
+    },
+    {
+      "resourcePath": "SPDM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SPDM.html",
+      "resourceName": "Simulation Purpose Definition Module (SPDM)",
+      "resourceIdentifier": "https://originopenfoundation.org/SPDM.html#webpage",
+      "version": "1.0",
+      "status": "Canonical · Open Module",
+      "authorityState": "current",
+      "parentStandard": "Simulation Purpose & Scope Standard (SPSS)"
+    },
+    {
+      "resourcePath": "SPHM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SPHM.html",
+      "resourceName": "Simulation Parameterization Module (SPHM)",
+      "resourceIdentifier": "https://originopenfoundation.org/SPHM.html#webpage",
+      "version": "1.0",
+      "status": "Canonical · Open Module",
+      "authorityState": "current",
+      "parentStandard": "Simulation Model & Environment Standard (SMES)"
+    },
+    {
+      "resourcePath": "SRAM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SRAM.html",
+      "resourceName": "Reality Alignment Module (SRAM) defines the governance conditions under",
+      "resourceIdentifier": "https://originopenfoundation.org/SRAM.html#webpage",
+      "version": "1.0",
+      "status": "Canonical · Open Module",
+      "authorityState": "current",
+      "parentStandard": "Simulation-to-Reality Correlation Standard (SRCS)"
+    },
+    {
+      "resourcePath": "SRCM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SRCM.html",
+      "resourceName": "Simulation-Reality Comparison Module (SRCM) defines the governance",
+      "resourceIdentifier": "https://originopenfoundation.org/SRCM.html#webpage",
+      "version": "1.0",
+      "status": "Canonical · Open Module",
+      "authorityState": "current",
+      "parentStandard": "Simulation-to-Reality Correlation Standard (SRCS)"
+    },
+    {
+      "resourcePath": "SRGM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SRGM.html",
+      "resourceName": "Resimulation Trigger Module (SRGM)",
+      "resourceIdentifier": "https://originopenfoundation.org/SRGM.html#webpage",
+      "version": "1.0",
+      "status": "Canonical · Open Standard",
+      "authorityState": "current",
+      "parentStandard": "Simulation Lifecycle & Resimulation Standard (SLRS)"
+    },
+    {
+      "resourcePath": "SRPM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SRPM.html",
+      "resourceName": "Simulation Repetition Module (SRPM)",
+      "resourceIdentifier": "https://originopenfoundation.org/SRPM.html#webpage",
+      "version": "1.0",
+      "status": "Canonical · Open Module",
+      "authorityState": "current",
+      "parentStandard": "Simulation Execution Standard (SES)"
+    },
+    {
+      "resourcePath": "SRSM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SRSM.html",
+      "resourceName": "Resimulation Scope Module (SRSM)",
+      "resourceIdentifier": "https://originopenfoundation.org/SRSM.html#webpage",
+      "version": "1.0",
+      "status": "Canonical · Open Standard",
+      "authorityState": "current",
+      "parentStandard": "Simulation Lifecycle & Resimulation Standard (SLRS)"
+    },
+    {
+      "resourcePath": "SRTM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SRTM.html",
+      "resourceName": "Simulation Retirement & Transition Module (SRTM)",
+      "resourceIdentifier": "https://originopenfoundation.org/SRTM.html#webpage",
+      "version": "1.0",
+      "status": "Canonical · Open Standard",
+      "authorityState": "current",
+      "parentStandard": "Simulation Lifecycle & Resimulation Standard (SLRS)"
+    },
+    {
+      "resourcePath": "SSCM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SSCM.html",
+      "resourceName": "Simulation Scope Module (SSCM)",
+      "resourceIdentifier": "https://originopenfoundation.org/SSCM.html#webpage",
+      "version": "1.0",
+      "status": "Canonical · Open Module",
+      "authorityState": "current",
+      "parentStandard": "Simulation Purpose & Scope Standard (SPSS)"
+    },
+    {
+      "resourcePath": "STDM.html",
+      "canonicalUrl": "https://originopenfoundation.org/STDM.html",
+      "resourceName": "Simulation Temporal Data Module (STDM)",
+      "resourceIdentifier": "https://originopenfoundation.org/STDM.html#webpage",
+      "version": "1.0",
+      "status": "Canonical · Open Module",
+      "authorityState": "current",
+      "parentStandard": "Simulation Input & Data Standard (SIDS)"
     }
   ]
 }

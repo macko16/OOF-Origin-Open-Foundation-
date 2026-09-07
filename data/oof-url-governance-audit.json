@@ -1,12 +1,12 @@
 {
   "schemaVersion": "1.0",
   "summary": {
-    "publicUrls": 1605,
-    "preservedUrls": 1605,
+    "publicUrls": 1677,
+    "preservedUrls": 1677,
     "activatedAliases": 0,
-    "migrationCandidates": 65,
-    "explicitVersionRecords": 1056,
-    "legacyUrlsWithRisks": 661,
+    "migrationCandidates": 66,
+    "explicitVersionRecords": 1108,
+    "legacyUrlsWithRisks": 733,
     "renamedUrls": 0
   },
   "decision": "KEEP+OPTIMIZE",
@@ -590,6 +590,15 @@
       "paths": [
         "content/r/ras-module-3.html",
         "content/r/ras-rbim.html"
+      ],
+      "classification": "REVIEW",
+      "reason": "Multiple existing pages expose the same normalized display name; no migration is activated."
+    },
+    {
+      "normalizedEntityName": "simulation object standard sos",
+      "paths": [
+        "Simulation Object Standard - (SOS).html",
+        "Standards.html"
       ],
       "classification": "REVIEW",
       "reason": "Multiple existing pages expose the same normalized display name; no migration is activated."

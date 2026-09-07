@@ -4,6 +4,163 @@
   "defaultAction": "KEEP+OPTIMIZE",
   "resources": [
     {
+      "path": "About Reality Representation Standard - (RRS).html",
+      "canonicalUrl": "https://originopenfoundation.org/About%20Reality%20Representation%20Standard%20-%20(RRS).html",
+      "storedCanonicalPath": "About Reality Representation Standard - (RRS).html",
+      "displayName": "About Reality Representation Standard - (RRS)",
+      "entityId": "https://originopenfoundation.org/About%20Reality%20Representation%20Standard%20-%20(RRS).html#webpage",
+      "governanceAction": "KEEP+OPTIMIZE",
+      "legacyPathRisks": [
+        "uppercase",
+        "spaces",
+        "specialCharacters"
+      ]
+    },
+    {
+      "path": "About Simulation Assumption Standard - (SAS).html",
+      "canonicalUrl": "https://originopenfoundation.org/About%20Simulation%20Assumption%20Standard%20-%20(SAS).html",
+      "storedCanonicalPath": "About Simulation Assumption Standard - (SAS).html",
+      "displayName": "About Simulation Assumption Standard - (SAS)",
+      "entityId": "https://originopenfoundation.org/About%20Simulation%20Assumption%20Standard%20-%20(SAS).html#webpage",
+      "governanceAction": "KEEP+OPTIMIZE",
+      "legacyPathRisks": [
+        "uppercase",
+        "spaces",
+        "specialCharacters"
+      ]
+    },
+    {
+      "path": "About Simulation Execution Standard - (SES).html",
+      "canonicalUrl": "https://originopenfoundation.org/About%20Simulation%20Execution%20Standard%20-%20(SES).html",
+      "storedCanonicalPath": "About Simulation Execution Standard - (SES).html",
+      "displayName": "About Simulation Execution Standard - (SES)",
+      "entityId": "https://originopenfoundation.org/About%20Simulation%20Execution%20Standard%20-%20(SES).html#webpage",
+      "governanceAction": "KEEP+OPTIMIZE",
+      "legacyPathRisks": [
+        "uppercase",
+        "spaces",
+        "specialCharacters"
+      ]
+    },
+    {
+      "path": "About Simulation Input & Data Standard - (SIDS).html",
+      "canonicalUrl": "https://originopenfoundation.org/About%20Simulation%20Input%20%26%20Data%20Standard%20-%20(SIDS).html",
+      "storedCanonicalPath": "About Simulation Input & Data Standard - (SIDS).html",
+      "displayName": "About Simulation Input & Data Standard - (SIDS)",
+      "entityId": "https://originopenfoundation.org/About%20Simulation%20Input%20%26%20Data%20Standard%20-%20(SIDS).html#webpage",
+      "governanceAction": "KEEP+OPTIMIZE",
+      "legacyPathRisks": [
+        "uppercase",
+        "spaces",
+        "specialCharacters"
+      ]
+    },
+    {
+      "path": "About Simulation Lifecycle & Resimulation Standard - (SLRS).html",
+      "canonicalUrl": "https://originopenfoundation.org/About%20Simulation%20Lifecycle%20%26%20Resimulation%20Standard%20-%20(SLRS).html",
+      "storedCanonicalPath": "About Simulation Lifecycle & Resimulation Standard - (SLRS).html",
+      "displayName": "About Simulation Lifecycle & Resimulation Standard - (SLRS)",
+      "entityId": "https://originopenfoundation.org/About%20Simulation%20Lifecycle%20%26%20Resimulation%20Standard%20-%20(SLRS).html#webpage",
+      "governanceAction": "KEEP+OPTIMIZE",
+      "legacyPathRisks": [
+        "uppercase",
+        "spaces",
+        "specialCharacters"
+      ]
+    },
+    {
+      "path": "About Simulation Model & Environment Standard - (SMES).html",
+      "canonicalUrl": "https://originopenfoundation.org/About%20Simulation%20Model%20%26%20Environment%20Standard%20-%20(SMES).html",
+      "storedCanonicalPath": "About Simulation Model & Environment Standard - (SMES).html",
+      "displayName": "About Simulation Model & Environment Standard - (SMES)",
+      "entityId": "https://originopenfoundation.org/About%20Simulation%20Model%20%26%20Environment%20Standard%20-%20(SMES).html#webpage",
+      "governanceAction": "KEEP+OPTIMIZE",
+      "legacyPathRisks": [
+        "uppercase",
+        "spaces",
+        "specialCharacters"
+      ]
+    },
+    {
+      "path": "About Simulation Object Standard - (SOS).html",
+      "canonicalUrl": "https://originopenfoundation.org/About%20Simulation%20Object%20Standard%20-%20(SOS).html",
+      "storedCanonicalPath": "About Simulation Object Standard - (SOS).html",
+      "displayName": "About Simulation Object Standard - (SOS)",
+      "entityId": "https://originopenfoundation.org/About%20Simulation%20Object%20Standard%20-%20(SOS).html#webpage",
+      "governanceAction": "KEEP+OPTIMIZE",
+      "legacyPathRisks": [
+        "uppercase",
+        "spaces",
+        "specialCharacters"
+      ]
+    },
+    {
+      "path": "About Simulation Output Governance Standard - (SOGS).html",
+      "canonicalUrl": "https://originopenfoundation.org/About%20Simulation%20Output%20Governance%20Standard%20-%20(SOGS).html",
+      "storedCanonicalPath": "About Simulation Output Governance Standard - (SOGS).html",
+      "displayName": "About Simulation Output Governance Standard - (SOGS)",
+      "entityId": "https://originopenfoundation.org/About%20Simulation%20Output%20Governance%20Standard%20-%20(SOGS).html#webpage",
+      "governanceAction": "KEEP+OPTIMIZE",
+      "legacyPathRisks": [
+        "uppercase",
+        "spaces",
+        "specialCharacters"
+      ]
+    },
+    {
+      "path": "About Simulation Purpose & Scope Standard - (SPSS).html",
+      "canonicalUrl": "https://originopenfoundation.org/About%20Simulation%20Purpose%20%26%20Scope%20Standard%20-%20(SPSS).html",
+      "storedCanonicalPath": "About Simulation Purpose & Scope Standard - (SPSS).html",
+      "displayName": "About Simulation Purpose & Scope Standard - (SPSS)",
+      "entityId": "https://originopenfoundation.org/About%20Simulation%20Purpose%20%26%20Scope%20Standard%20-%20(SPSS).html#webpage",
+      "governanceAction": "KEEP+OPTIMIZE",
+      "legacyPathRisks": [
+        "uppercase",
+        "spaces",
+        "specialCharacters"
+      ]
+    },
+    {
+      "path": "About Simulation Scenario Standard - (SSS).html",
+      "canonicalUrl": "https://originopenfoundation.org/About%20Simulation%20Scenario%20Standard%20-%20(SSS).html",
+      "storedCanonicalPath": "About Simulation Scenario Standard - (SSS).html",
+      "displayName": "About Simulation Scenario Standard - (SSS)",
+      "entityId": "https://originopenfoundation.org/About%20Simulation%20Scenario%20Standard%20-%20(SSS).html#webpage",
+      "governanceAction": "KEEP+OPTIMIZE",
+      "legacyPathRisks": [
+        "uppercase",
+        "spaces",
+        "specialCharacters"
+      ]
+    },
+    {
+      "path": "About Simulation-to-Reality Correlation Standard - (SRCS).html",
+      "canonicalUrl": "https://originopenfoundation.org/About%20Simulation-to-Reality%20Correlation%20Standard%20-%20(SRCS).html",
+      "storedCanonicalPath": "About Simulation-to-Reality Correlation Standard - (SRCS).html",
+      "displayName": "About Simulation-to-Reality Correlation Standard - (SRCS)",
+      "entityId": "https://originopenfoundation.org/About%20Simulation-to-Reality%20Correlation%20Standard%20-%20(SRCS).html#webpage",
+      "governanceAction": "KEEP+OPTIMIZE",
+      "legacyPathRisks": [
+        "uppercase",
+        "spaces",
+        "specialCharacters"
+      ]
+    },
+    {
+      "path": "About SIMULOS® - Simulation Governance Architecture.html",
+      "canonicalUrl": "https://originopenfoundation.org/About%20SIMULOS%C2%AE%20-%20Simulation%20Governance%20Architecture.html",
+      "storedCanonicalPath": "About SIMULOS® - Simulation Governance Architecture.html",
+      "displayName": "About SIMULOS®",
+      "entityId": "https://originopenfoundation.org/About%20SIMULOS%C2%AE%20-%20Simulation%20Governance%20Architecture.html#webpage",
+      "governanceAction": "KEEP+OPTIMIZE",
+      "legacyPathRisks": [
+        "uppercase",
+        "nonAscii",
+        "spaces",
+        "specialCharacters"
+      ]
+    },
+    {
       "path": "Contact.html",
       "canonicalUrl": "https://originopenfoundation.org/Contact.html",
       "storedCanonicalPath": "Contact.html",
@@ -16044,10 +16201,34 @@
       "path": "oof-structured-architecture-index.html",
       "canonicalUrl": "https://originopenfoundation.org/oof-structured-architecture-index.html",
       "storedCanonicalPath": "oof-structured-architecture-index.html",
-      "displayName": "VALIDOS™ — Validation Governance Architecture (10)",
+      "displayName": "SIMULOS® — Simulation Governance Architecture (11)",
       "entityId": "https://originopenfoundation.org/oof-structured-architecture-index.html#webpage",
       "governanceAction": "KEEP+OPTIMIZE",
       "legacyPathRisks": []
+    },
+    {
+      "path": "RAM.html",
+      "canonicalUrl": "https://originopenfoundation.org/RAM.html",
+      "storedCanonicalPath": "RAM.html",
+      "displayName": "Reality Abstraction Module (RAM)",
+      "entityId": "https://originopenfoundation.org/RAM.html#webpage",
+      "governanceAction": "KEEP+OPTIMIZE",
+      "legacyPathRisks": [
+        "uppercase"
+      ]
+    },
+    {
+      "path": "Reality Representation Standard - (RRS).html",
+      "canonicalUrl": "https://originopenfoundation.org/Reality%20Representation%20Standard%20-%20(RRS).html",
+      "storedCanonicalPath": "Reality Representation Standard - (RRS).html",
+      "displayName": "Reality Representation Standard - (RRS)",
+      "entityId": "https://originopenfoundation.org/Reality%20Representation%20Standard%20-%20(RRS).html#webpage",
+      "governanceAction": "KEEP+OPTIMIZE",
+      "legacyPathRisks": [
+        "uppercase",
+        "spaces",
+        "specialCharacters"
+      ]
     },
     {
       "path": "reference-architectures.html",
@@ -16057,6 +16238,662 @@
       "entityId": "https://originopenfoundation.org/reference-architectures.html#webpage",
       "governanceAction": "KEEP+OPTIMIZE",
       "legacyPathRisks": []
+    },
+    {
+      "path": "RFM.html",
+      "canonicalUrl": "https://originopenfoundation.org/RFM.html",
+      "storedCanonicalPath": "RFM.html",
+      "displayName": "Representation Fidelity Module (RFM)",
+      "entityId": "https://originopenfoundation.org/RFM.html#webpage",
+      "governanceAction": "KEEP+OPTIMIZE",
+      "legacyPathRisks": [
+        "uppercase"
+      ]
+    },
+    {
+      "path": "RLM.html",
+      "canonicalUrl": "https://originopenfoundation.org/RLM.html",
+      "storedCanonicalPath": "RLM.html",
+      "displayName": "Representation Limitation Module (RLM)",
+      "entityId": "https://originopenfoundation.org/RLM.html#webpage",
+      "governanceAction": "KEEP+OPTIMIZE",
+      "legacyPathRisks": [
+        "uppercase"
+      ]
+    },
+    {
+      "path": "RRM.html",
+      "canonicalUrl": "https://originopenfoundation.org/RRM.html",
+      "storedCanonicalPath": "RRM.html",
+      "displayName": "Representation Resolution Module (RRM)",
+      "entityId": "https://originopenfoundation.org/RRM.html#webpage",
+      "governanceAction": "KEEP+OPTIMIZE",
+      "legacyPathRisks": [
+        "uppercase"
+      ]
+    },
+    {
+      "path": "RSM.html",
+      "canonicalUrl": "https://originopenfoundation.org/RSM.html",
+      "storedCanonicalPath": "RSM.html",
+      "displayName": "Reality Selection Module (RSM)",
+      "entityId": "https://originopenfoundation.org/RSM.html#webpage",
+      "governanceAction": "KEEP+OPTIMIZE",
+      "legacyPathRisks": [
+        "uppercase"
+      ]
+    },
+    {
+      "path": "SABM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SABM.html",
+      "storedCanonicalPath": "SABM.html",
+      "displayName": "Simulation Assumption Basis Module (SABM)",
+      "entityId": "https://originopenfoundation.org/SABM.html#webpage",
+      "governanceAction": "KEEP+OPTIMIZE",
+      "legacyPathRisks": [
+        "uppercase"
+      ]
+    },
+    {
+      "path": "SACM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SACM.html",
+      "storedCanonicalPath": "SACM.html",
+      "displayName": "Simulation Applicability Context Module (SACM)",
+      "entityId": "https://originopenfoundation.org/SACM.html#webpage",
+      "governanceAction": "KEEP+OPTIMIZE",
+      "legacyPathRisks": [
+        "uppercase"
+      ]
+    },
+    {
+      "path": "SADM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SADM.html",
+      "storedCanonicalPath": "SADM.html",
+      "displayName": "Simulation Assumption Dependency Module (SADM)",
+      "entityId": "https://originopenfoundation.org/SADM.html#webpage",
+      "governanceAction": "KEEP+OPTIMIZE",
+      "legacyPathRisks": [
+        "uppercase"
+      ]
+    },
+    {
+      "path": "SAIM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SAIM.html",
+      "storedCanonicalPath": "SAIM.html",
+      "displayName": "Simulation Assumption Identification Module (SAIM)",
+      "entityId": "https://originopenfoundation.org/SAIM.html#webpage",
+      "governanceAction": "KEEP+OPTIMIZE",
+      "legacyPathRisks": [
+        "uppercase"
+      ]
+    },
+    {
+      "path": "SALM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SALM.html",
+      "storedCanonicalPath": "SALM.html",
+      "displayName": "Simulation Assumption Limitation Module (SALM)",
+      "entityId": "https://originopenfoundation.org/SALM.html#webpage",
+      "governanceAction": "KEEP+OPTIMIZE",
+      "legacyPathRisks": [
+        "uppercase"
+      ]
+    },
+    {
+      "path": "SAUM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SAUM.html",
+      "storedCanonicalPath": "SAUM.html",
+      "displayName": "Simulation Assumption Uncertainty Module (SAUM)",
+      "entityId": "https://originopenfoundation.org/SAUM.html#webpage",
+      "governanceAction": "KEEP+OPTIMIZE",
+      "legacyPathRisks": [
+        "uppercase"
+      ]
+    },
+    {
+      "path": "SBIM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SBIM.html",
+      "storedCanonicalPath": "SBIM.html",
+      "displayName": "Simulation Boundary Interaction Module (SBIM)",
+      "entityId": "https://originopenfoundation.org/SBIM.html#webpage",
+      "governanceAction": "KEEP+OPTIMIZE",
+      "legacyPathRisks": [
+        "uppercase"
+      ]
+    },
+    {
+      "path": "SCCM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SCCM.html",
+      "storedCanonicalPath": "SCCM.html",
+      "displayName": "Scenario Coverage Module (SCCM)",
+      "entityId": "https://originopenfoundation.org/SCCM.html#webpage",
+      "governanceAction": "KEEP+OPTIMIZE",
+      "legacyPathRisks": [
+        "uppercase"
+      ]
+    },
+    {
+      "path": "SCIM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SCIM.html",
+      "storedCanonicalPath": "SCIM.html",
+      "displayName": "Scenario Identification Module (SCIM)",
+      "entityId": "https://originopenfoundation.org/SCIM.html#webpage",
+      "governanceAction": "KEEP+OPTIMIZE",
+      "legacyPathRisks": [
+        "uppercase"
+      ]
+    },
+    {
+      "path": "SCUM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SCUM.html",
+      "storedCanonicalPath": "SCUM.html",
+      "displayName": "Correlation Uncertainty Module (SCUM) defines the governance conditions",
+      "entityId": "https://originopenfoundation.org/SCUM.html#webpage",
+      "governanceAction": "KEEP+OPTIMIZE",
+      "legacyPathRisks": [
+        "uppercase"
+      ]
+    },
+    {
+      "path": "SCVM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SCVM.html",
+      "storedCanonicalPath": "SCVM.html",
+      "displayName": "Scenario Variation Module (SCVM)",
+      "entityId": "https://originopenfoundation.org/SCVM.html#webpage",
+      "governanceAction": "KEEP+OPTIMIZE",
+      "legacyPathRisks": [
+        "uppercase"
+      ]
+    },
+    {
+      "path": "SDMM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SDMM.html",
+      "storedCanonicalPath": "SDMM.html",
+      "displayName": "Simulation-Reality Deviation Module (SDMM) defines the governance",
+      "entityId": "https://originopenfoundation.org/SDMM.html#webpage",
+      "governanceAction": "KEEP+OPTIMIZE",
+      "legacyPathRisks": [
+        "uppercase"
+      ]
+    },
+    {
+      "path": "SDPM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SDPM.html",
+      "storedCanonicalPath": "SDPM.html",
+      "displayName": "Simulation Depth & Precision Module (SDPM)",
+      "entityId": "https://originopenfoundation.org/SDPM.html#webpage",
+      "governanceAction": "KEEP+OPTIMIZE",
+      "legacyPathRisks": [
+        "uppercase"
+      ]
+    },
+    {
+      "path": "SDRM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SDRM.html",
+      "storedCanonicalPath": "SDRM.html",
+      "displayName": "Simulation Data Representativeness Module (SDRM)",
+      "entityId": "https://originopenfoundation.org/SDRM.html#webpage",
+      "governanceAction": "KEEP+OPTIMIZE",
+      "legacyPathRisks": [
+        "uppercase"
+      ]
+    },
+    {
+      "path": "SDTM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SDTM.html",
+      "storedCanonicalPath": "SDTM.html",
+      "displayName": "Simulation Data Transformation Module (SDTM)",
+      "entityId": "https://originopenfoundation.org/SDTM.html#webpage",
+      "governanceAction": "KEEP+OPTIMIZE",
+      "legacyPathRisks": [
+        "uppercase"
+      ]
+    },
+    {
+      "path": "SECM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SECM.html",
+      "storedCanonicalPath": "SECM.html",
+      "displayName": "Simulation Execution Control Module (SECM)",
+      "entityId": "https://originopenfoundation.org/SECM.html#webpage",
+      "governanceAction": "KEEP+OPTIMIZE",
+      "legacyPathRisks": [
+        "uppercase"
+      ]
+    },
+    {
+      "path": "SEDM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SEDM.html",
+      "storedCanonicalPath": "SEDM.html",
+      "displayName": "Simulation Execution Documentation Module (SEDM)",
+      "entityId": "https://originopenfoundation.org/SEDM.html#webpage",
+      "governanceAction": "KEEP+OPTIMIZE",
+      "legacyPathRisks": [
+        "uppercase"
+      ]
+    },
+    {
+      "path": "SEVM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SEVM.html",
+      "storedCanonicalPath": "SEVM.html",
+      "displayName": "Simulation Environment Versioning Module (SEVM)",
+      "entityId": "https://originopenfoundation.org/SEVM.html#webpage",
+      "governanceAction": "KEEP+OPTIMIZE",
+      "legacyPathRisks": [
+        "uppercase"
+      ]
+    },
+    {
+      "path": "SEXM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SEXM.html",
+      "storedCanonicalPath": "SEXM.html",
+      "displayName": "Simulation Exclusion Module (SEXM)",
+      "entityId": "https://originopenfoundation.org/SEXM.html#webpage",
+      "governanceAction": "KEEP+OPTIMIZE",
+      "legacyPathRisks": [
+        "uppercase"
+      ]
+    },
+    {
+      "path": "SIIM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SIIM.html",
+      "storedCanonicalPath": "SIIM.html",
+      "displayName": "Simulation Input Identification Module (SIIM)",
+      "entityId": "https://originopenfoundation.org/SIIM.html#webpage",
+      "governanceAction": "KEEP+OPTIMIZE",
+      "legacyPathRisks": [
+        "uppercase"
+      ]
+    },
+    {
+      "path": "SIM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SIM.html",
+      "storedCanonicalPath": "SIM.html",
+      "displayName": "Simulation Instantiation Module (SIM)",
+      "entityId": "https://originopenfoundation.org/SIM.html#webpage",
+      "governanceAction": "KEEP+OPTIMIZE",
+      "legacyPathRisks": [
+        "uppercase"
+      ]
+    },
+    {
+      "path": "Simulation Assumption Standard - (SAS).html",
+      "canonicalUrl": "https://originopenfoundation.org/Simulation%20Assumption%20Standard%20-%20(SAS).html",
+      "storedCanonicalPath": "Simulation Assumption Standard - (SAS).html",
+      "displayName": "Simulation Assumption Standard - (SAS)",
+      "entityId": "https://originopenfoundation.org/Simulation%20Assumption%20Standard%20-%20(SAS).html#webpage",
+      "governanceAction": "KEEP+OPTIMIZE",
+      "legacyPathRisks": [
+        "uppercase",
+        "spaces",
+        "specialCharacters"
+      ]
+    },
+    {
+      "path": "Simulation Execution Standard - (SES).html",
+      "canonicalUrl": "https://originopenfoundation.org/Simulation%20Execution%20Standard%20-%20(SES).html",
+      "storedCanonicalPath": "Simulation Execution Standard - (SES).html",
+      "displayName": "Simulation Execution Standard - (SES)",
+      "entityId": "https://originopenfoundation.org/Simulation%20Execution%20Standard%20-%20(SES).html#webpage",
+      "governanceAction": "KEEP+OPTIMIZE",
+      "legacyPathRisks": [
+        "uppercase",
+        "spaces",
+        "specialCharacters"
+      ]
+    },
+    {
+      "path": "Simulation Input & Data Standard - (SIDS).html",
+      "canonicalUrl": "https://originopenfoundation.org/Simulation%20Input%20%26%20Data%20Standard%20-%20(SIDS).html",
+      "storedCanonicalPath": "Simulation Input & Data Standard - (SIDS).html",
+      "displayName": "Simulation Input & Data Standard - (SIDS)",
+      "entityId": "https://originopenfoundation.org/Simulation%20Input%20%26%20Data%20Standard%20-%20(SIDS).html#webpage",
+      "governanceAction": "KEEP+OPTIMIZE",
+      "legacyPathRisks": [
+        "uppercase",
+        "spaces",
+        "specialCharacters"
+      ]
+    },
+    {
+      "path": "Simulation Lifecycle & Resimulation Standard - (SLRS).html",
+      "canonicalUrl": "https://originopenfoundation.org/Simulation%20Lifecycle%20%26%20Resimulation%20Standard%20-%20(SLRS).html",
+      "storedCanonicalPath": "Simulation Lifecycle & Resimulation Standard - (SLRS).html",
+      "displayName": "Simulation Lifecycle & Resimulation Standard - (SLRS)",
+      "entityId": "https://originopenfoundation.org/Simulation%20Lifecycle%20%26%20Resimulation%20Standard%20-%20(SLRS).html#webpage",
+      "governanceAction": "KEEP+OPTIMIZE",
+      "legacyPathRisks": [
+        "uppercase",
+        "spaces",
+        "specialCharacters"
+      ]
+    },
+    {
+      "path": "Simulation Model & Environment Standard - (SMES).html",
+      "canonicalUrl": "https://originopenfoundation.org/Simulation%20Model%20%26%20Environment%20Standard%20-%20(SMES).html",
+      "storedCanonicalPath": "Simulation Model & Environment Standard - (SMES).html",
+      "displayName": "Simulation Model & Environment Standard - (SMES)",
+      "entityId": "https://originopenfoundation.org/Simulation%20Model%20%26%20Environment%20Standard%20-%20(SMES).html#webpage",
+      "governanceAction": "KEEP+OPTIMIZE",
+      "legacyPathRisks": [
+        "uppercase",
+        "spaces",
+        "specialCharacters"
+      ]
+    },
+    {
+      "path": "Simulation Object Standard - (SOS).html",
+      "canonicalUrl": "https://originopenfoundation.org/Simulation%20Object%20Standard%20-%20(SOS).html",
+      "storedCanonicalPath": "Simulation Object Standard - (SOS).html",
+      "displayName": "Simulation Object Standard - (SOS)",
+      "entityId": "https://originopenfoundation.org/Simulation%20Object%20Standard%20-%20(SOS).html#webpage",
+      "governanceAction": "KEEP+OPTIMIZE",
+      "legacyPathRisks": [
+        "uppercase",
+        "spaces",
+        "specialCharacters"
+      ]
+    },
+    {
+      "path": "Simulation Output Governance Standard - (SOGS).html",
+      "canonicalUrl": "https://originopenfoundation.org/Simulation%20Output%20Governance%20Standard%20-%20(SOGS).html",
+      "storedCanonicalPath": "Simulation Output Governance Standard - (SOGS).html",
+      "displayName": "Simulation Output Governance Standard - (SOGS)",
+      "entityId": "https://originopenfoundation.org/Simulation%20Output%20Governance%20Standard%20-%20(SOGS).html#webpage",
+      "governanceAction": "KEEP+OPTIMIZE",
+      "legacyPathRisks": [
+        "uppercase",
+        "spaces",
+        "specialCharacters"
+      ]
+    },
+    {
+      "path": "Simulation Purpose & Scope Standard - (SPSS).html",
+      "canonicalUrl": "https://originopenfoundation.org/Simulation%20Purpose%20%26%20Scope%20Standard%20-%20(SPSS).html",
+      "storedCanonicalPath": "Simulation Purpose & Scope Standard - (SPSS).html",
+      "displayName": "Simulation Purpose & Scope Standard - (SPSS)",
+      "entityId": "https://originopenfoundation.org/Simulation%20Purpose%20%26%20Scope%20Standard%20-%20(SPSS).html#webpage",
+      "governanceAction": "KEEP+OPTIMIZE",
+      "legacyPathRisks": [
+        "uppercase",
+        "spaces",
+        "specialCharacters"
+      ]
+    },
+    {
+      "path": "Simulation Scenario Standard - (SSS).html",
+      "canonicalUrl": "https://originopenfoundation.org/Simulation%20Scenario%20Standard%20-%20(SSS).html",
+      "storedCanonicalPath": "Simulation Scenario Standard - (SSS).html",
+      "displayName": "Simulation Scenario Standard - (SSS)",
+      "entityId": "https://originopenfoundation.org/Simulation%20Scenario%20Standard%20-%20(SSS).html#webpage",
+      "governanceAction": "KEEP+OPTIMIZE",
+      "legacyPathRisks": [
+        "uppercase",
+        "spaces",
+        "specialCharacters"
+      ]
+    },
+    {
+      "path": "Simulation-to-Reality Correlation Standard - (SRCS).html",
+      "canonicalUrl": "https://originopenfoundation.org/Simulation-to-Reality%20Correlation%20Standard%20-%20(SRCS).html",
+      "storedCanonicalPath": "Simulation-to-Reality Correlation Standard - (SRCS).html",
+      "displayName": "Simulation-to-Reality Correlation Standard - (SRCS)",
+      "entityId": "https://originopenfoundation.org/Simulation-to-Reality%20Correlation%20Standard%20-%20(SRCS).html#webpage",
+      "governanceAction": "KEEP+OPTIMIZE",
+      "legacyPathRisks": [
+        "uppercase",
+        "spaces",
+        "specialCharacters"
+      ]
+    },
+    {
+      "path": "SIMULOS® Architecture Map.html",
+      "canonicalUrl": "https://originopenfoundation.org/SIMULOS%C2%AE%20Architecture%20Map.html",
+      "storedCanonicalPath": "SIMULOS® Architecture Map.html",
+      "displayName": "SIMULOS® Architecture Map",
+      "entityId": "https://originopenfoundation.org/SIMULOS%C2%AE%20Architecture%20Map.html#webpage",
+      "governanceAction": "KEEP+OPTIMIZE",
+      "legacyPathRisks": [
+        "uppercase",
+        "nonAscii",
+        "spaces",
+        "specialCharacters"
+      ]
+    },
+    {
+      "path": "SIMULOS® Complete Standards & Modules Index.html",
+      "canonicalUrl": "https://originopenfoundation.org/SIMULOS%C2%AE%20Complete%20Standards%20%26%20Modules%20Index.html",
+      "storedCanonicalPath": "SIMULOS® Complete Standards & Modules Index.html",
+      "displayName": "SIMULOS® Complete Standards & Modules Index",
+      "entityId": "https://originopenfoundation.org/SIMULOS%C2%AE%20Complete%20Standards%20%26%20Modules%20Index.html#webpage",
+      "governanceAction": "KEEP+OPTIMIZE",
+      "legacyPathRisks": [
+        "uppercase",
+        "nonAscii",
+        "spaces",
+        "specialCharacters"
+      ]
+    },
+    {
+      "path": "SIMULOS® Simulation Governance Architecture - Simulation Governance Layer.html",
+      "canonicalUrl": "https://originopenfoundation.org/SIMULOS%C2%AE%20Simulation%20Governance%20Architecture%20-%20Simulation%20Governance%20Layer.html",
+      "storedCanonicalPath": "SIMULOS® Simulation Governance Architecture - Simulation Governance Layer.html",
+      "displayName": "SIMULOS®",
+      "entityId": "https://originopenfoundation.org/SIMULOS%C2%AE%20Simulation%20Governance%20Architecture%20-%20Simulation%20Governance%20Layer.html#webpage",
+      "governanceAction": "KEEP+OPTIMIZE",
+      "legacyPathRisks": [
+        "uppercase",
+        "nonAscii",
+        "spaces",
+        "specialCharacters"
+      ]
+    },
+    {
+      "path": "SIUM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SIUM.html",
+      "storedCanonicalPath": "SIUM.html",
+      "displayName": "Simulation Input Uncertainty Module (SIUM)",
+      "entityId": "https://originopenfoundation.org/SIUM.html#webpage",
+      "governanceAction": "KEEP+OPTIMIZE",
+      "legacyPathRisks": [
+        "uppercase"
+      ]
+    },
+    {
+      "path": "SLMM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SLMM.html",
+      "storedCanonicalPath": "SLMM.html",
+      "displayName": "Simulation Lifecycle Monitoring Module (SLMM)",
+      "entityId": "https://originopenfoundation.org/SLMM.html#webpage",
+      "governanceAction": "KEEP+OPTIMIZE",
+      "legacyPathRisks": [
+        "uppercase"
+      ]
+    },
+    {
+      "path": "SMMM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SMMM.html",
+      "storedCanonicalPath": "SMMM.html",
+      "displayName": "Simulation Model Structure Module (SMMM)",
+      "entityId": "https://originopenfoundation.org/SMMM.html#webpage",
+      "governanceAction": "KEEP+OPTIMIZE",
+      "legacyPathRisks": [
+        "uppercase"
+      ]
+    },
+    {
+      "path": "SOBM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SOBM.html",
+      "storedCanonicalPath": "SOBM.html",
+      "displayName": "Simulation Object Boundary Module (SOBM)",
+      "entityId": "https://originopenfoundation.org/SOBM.html#webpage",
+      "governanceAction": "KEEP+OPTIMIZE",
+      "legacyPathRisks": [
+        "uppercase"
+      ]
+    },
+    {
+      "path": "SOCM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SOCM.html",
+      "storedCanonicalPath": "SOCM.html",
+      "displayName": "Simulation Object Configuration Module (SOCM)",
+      "entityId": "https://originopenfoundation.org/SOCM.html#webpage",
+      "governanceAction": "KEEP+OPTIMIZE",
+      "legacyPathRisks": [
+        "uppercase"
+      ]
+    },
+    {
+      "path": "SODM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SODM.html",
+      "storedCanonicalPath": "SODM.html",
+      "displayName": "Simulation Object Documentation Module (SODM)",
+      "entityId": "https://originopenfoundation.org/SODM.html#webpage",
+      "governanceAction": "KEEP+OPTIMIZE",
+      "legacyPathRisks": [
+        "uppercase"
+      ]
+    },
+    {
+      "path": "SOIM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SOIM.html",
+      "storedCanonicalPath": "SOIM.html",
+      "displayName": "Simulation Object Identification Module (SOIM)",
+      "entityId": "https://originopenfoundation.org/SOIM.html#webpage",
+      "governanceAction": "KEEP+OPTIMIZE",
+      "legacyPathRisks": [
+        "uppercase"
+      ]
+    },
+    {
+      "path": "SOLM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SOLM.html",
+      "storedCanonicalPath": "SOLM.html",
+      "displayName": "Simulation Output Limitation Module (SOLM)",
+      "entityId": "https://originopenfoundation.org/SOLM.html#webpage",
+      "governanceAction": "KEEP+OPTIMIZE",
+      "legacyPathRisks": [
+        "uppercase"
+      ]
+    },
+    {
+      "path": "SOM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SOM.html",
+      "storedCanonicalPath": "SOM.html",
+      "displayName": "Simulation Observation Module (SOM)",
+      "entityId": "https://originopenfoundation.org/SOM.html#webpage",
+      "governanceAction": "KEEP+OPTIMIZE",
+      "legacyPathRisks": [
+        "uppercase"
+      ]
+    },
+    {
+      "path": "SOVM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SOVM.html",
+      "storedCanonicalPath": "SOVM.html",
+      "displayName": "Simulation Object Versioning Module (SOVM)",
+      "entityId": "https://originopenfoundation.org/SOVM.html#webpage",
+      "governanceAction": "KEEP+OPTIMIZE",
+      "legacyPathRisks": [
+        "uppercase"
+      ]
+    },
+    {
+      "path": "SPDM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SPDM.html",
+      "storedCanonicalPath": "SPDM.html",
+      "displayName": "Simulation Purpose Definition Module (SPDM)",
+      "entityId": "https://originopenfoundation.org/SPDM.html#webpage",
+      "governanceAction": "KEEP+OPTIMIZE",
+      "legacyPathRisks": [
+        "uppercase"
+      ]
+    },
+    {
+      "path": "SPHM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SPHM.html",
+      "storedCanonicalPath": "SPHM.html",
+      "displayName": "Simulation Parameterization Module (SPHM)",
+      "entityId": "https://originopenfoundation.org/SPHM.html#webpage",
+      "governanceAction": "KEEP+OPTIMIZE",
+      "legacyPathRisks": [
+        "uppercase"
+      ]
+    },
+    {
+      "path": "SRAM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SRAM.html",
+      "storedCanonicalPath": "SRAM.html",
+      "displayName": "Reality Alignment Module (SRAM) defines the governance conditions under",
+      "entityId": "https://originopenfoundation.org/SRAM.html#webpage",
+      "governanceAction": "KEEP+OPTIMIZE",
+      "legacyPathRisks": [
+        "uppercase"
+      ]
+    },
+    {
+      "path": "SRCM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SRCM.html",
+      "storedCanonicalPath": "SRCM.html",
+      "displayName": "Simulation-Reality Comparison Module (SRCM) defines the governance",
+      "entityId": "https://originopenfoundation.org/SRCM.html#webpage",
+      "governanceAction": "KEEP+OPTIMIZE",
+      "legacyPathRisks": [
+        "uppercase"
+      ]
+    },
+    {
+      "path": "SRGM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SRGM.html",
+      "storedCanonicalPath": "SRGM.html",
+      "displayName": "Resimulation Trigger Module (SRGM)",
+      "entityId": "https://originopenfoundation.org/SRGM.html#webpage",
+      "governanceAction": "KEEP+OPTIMIZE",
+      "legacyPathRisks": [
+        "uppercase"
+      ]
+    },
+    {
+      "path": "SRPM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SRPM.html",
+      "storedCanonicalPath": "SRPM.html",
+      "displayName": "Simulation Repetition Module (SRPM)",
+      "entityId": "https://originopenfoundation.org/SRPM.html#webpage",
+      "governanceAction": "KEEP+OPTIMIZE",
+      "legacyPathRisks": [
+        "uppercase"
+      ]
+    },
+    {
+      "path": "SRSM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SRSM.html",
+      "storedCanonicalPath": "SRSM.html",
+      "displayName": "Resimulation Scope Module (SRSM)",
+      "entityId": "https://originopenfoundation.org/SRSM.html#webpage",
+      "governanceAction": "KEEP+OPTIMIZE",
+      "legacyPathRisks": [
+        "uppercase"
+      ]
+    },
+    {
+      "path": "SRTM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SRTM.html",
+      "storedCanonicalPath": "SRTM.html",
+      "displayName": "Simulation Retirement & Transition Module (SRTM)",
+      "entityId": "https://originopenfoundation.org/SRTM.html#webpage",
+      "governanceAction": "KEEP+OPTIMIZE",
+      "legacyPathRisks": [
+        "uppercase"
+      ]
+    },
+    {
+      "path": "SSCM.html",
+      "canonicalUrl": "https://originopenfoundation.org/SSCM.html",
+      "storedCanonicalPath": "SSCM.html",
+      "displayName": "Simulation Scope Module (SSCM)",
+      "entityId": "https://originopenfoundation.org/SSCM.html#webpage",
+      "governanceAction": "KEEP+OPTIMIZE",
+      "legacyPathRisks": [
+        "uppercase"
+      ]
     },
     {
       "path": "standardinde.html",
@@ -16071,7 +16908,7 @@
       "path": "Standards.html",
       "canonicalUrl": "https://originopenfoundation.org/Standards.html",
       "storedCanonicalPath": "Standards.html",
-      "displayName": "Validation Object Standard (VOBS)",
+      "displayName": "Simulation Object Standard (SOS)",
       "entityId": "https://originopenfoundation.org/Standards.html#webpage",
       "governanceAction": "KEEP+OPTIMIZE",
       "legacyPathRisks": [
@@ -16086,6 +16923,17 @@
       "entityId": "https://originopenfoundation.org/standardsoverview.html#webpage",
       "governanceAction": "KEEP+OPTIMIZE",
       "legacyPathRisks": []
+    },
+    {
+      "path": "STDM.html",
+      "canonicalUrl": "https://originopenfoundation.org/STDM.html",
+      "storedCanonicalPath": "STDM.html",
+      "displayName": "Simulation Temporal Data Module (STDM)",
+      "entityId": "https://originopenfoundation.org/STDM.html#webpage",
+      "governanceAction": "KEEP+OPTIMIZE",
+      "legacyPathRisks": [
+        "uppercase"
+      ]
     }
   ]
 }
