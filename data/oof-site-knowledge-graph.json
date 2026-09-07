@@ -110061,12 +110061,12 @@
       "@type": "TechArticle",
       "@id": "https://originopenfoundation.org/content/v/validos-about.html#webpage",
       "url": "https://originopenfoundation.org/content/v/validos-about.html",
-      "name": "About VALIDOS™ — Validation Governance Architecture",
+      "name": "About VALIDOS® — Validation Governance Architecture",
       "inLanguage": "en",
       "isPartOf": {
         "@id": "https://originopenfoundation.org/#website"
       },
-      "headline": "About VALIDOS™ — Validation Governance Architecture",
+      "headline": "About VALIDOS® — Validation Governance Architecture",
       "author": {
         "@id": "https://originopenfoundation.org/#organization"
       },
@@ -110102,7 +110102,7 @@
       "@type": "CollectionPage",
       "@id": "https://originopenfoundation.org/content/v/validos-architecture-map.html#webpage",
       "url": "https://originopenfoundation.org/content/v/validos-architecture-map.html",
-      "name": "VALIDOS™ Architecture Map",
+      "name": "VALIDOS® Architecture Map",
       "inLanguage": "en",
       "isPartOf": {
         "@id": "https://originopenfoundation.org/#website"
@@ -110182,12 +110182,12 @@
       "@type": "TechArticle",
       "@id": "https://originopenfoundation.org/content/v/validos-architecture.html#webpage",
       "url": "https://originopenfoundation.org/content/v/validos-architecture.html",
-      "name": "VALIDOS™ Validation Governance Architecture — Validation Governance Layer",
+      "name": "VALIDOS® Validation Governance Architecture — Validation Governance Layer",
       "inLanguage": "en",
       "isPartOf": {
         "@id": "https://originopenfoundation.org/#website"
       },
-      "headline": "VALIDOS™ Validation Governance Architecture — Validation Governance Layer",
+      "headline": "VALIDOS® Validation Governance Architecture — Validation Governance Layer",
       "author": {
         "@id": "https://originopenfoundation.org/#organization"
       },
@@ -110319,12 +110319,12 @@
       "@type": "TechArticle",
       "@id": "https://originopenfoundation.org/content/v/validos-four-layer-validation-protocol.html#webpage",
       "url": "https://originopenfoundation.org/content/v/validos-four-layer-validation-protocol.html",
-      "name": "VALIDOS™ — Four-Layer Validation Protocol™",
+      "name": "VALIDOS® — Four-Layer Validation Protocol™",
       "inLanguage": "en",
       "isPartOf": {
         "@id": "https://originopenfoundation.org/#website"
       },
-      "headline": "VALIDOS™ — Four-Layer Validation Protocol™",
+      "headline": "VALIDOS® — Four-Layer Validation Protocol™",
       "author": {
         "@id": "https://originopenfoundation.org/#organization"
       },
@@ -110332,13 +110332,13 @@
         "@id": "https://originopenfoundation.org/content/v/validos-four-layer-validation-protocol.html#webpage"
       },
       "keywords": [
-        "VALIDOS™ — Validation",
+        "VALIDOS® — Validation",
         "AI & Interpretation Subcategory:"
       ],
       "about": [
         {
           "@type": "Thing",
-          "name": "VALIDOS™ — Validation"
+          "name": "VALIDOS® — Validation"
         },
         {
           "@type": "Thing",
@@ -110374,7 +110374,7 @@
         {
           "@type": "PropertyValue",
           "name": "Architecture",
-          "value": "VALIDOS™ — Validation"
+          "value": "VALIDOS® — Validation"
         },
         {
           "@type": "PropertyValue",
@@ -110966,7 +110966,7 @@
         "@id": "https://originopenfoundation.org/content/v/validos-vcrs.html#webpage"
       },
       "keywords": [
-        "VALIDOS™ — Validation Governance Architecture",
+        "VALIDOS® — Validation Governance Architecture",
         "AI & Interpretation",
         "Validation Governance",
         "Validation Criteria"
@@ -110974,7 +110974,7 @@
       "about": [
         {
           "@type": "Thing",
-          "name": "VALIDOS™ — Validation Governance Architecture"
+          "name": "VALIDOS® — Validation Governance Architecture"
         },
         {
           "@type": "Thing",
@@ -111075,7 +111075,7 @@
         {
           "@type": "PropertyValue",
           "name": "Architecture",
-          "value": "VALIDOS™ — Validation Governance Architecture"
+          "value": "VALIDOS® — Validation Governance Architecture"
         },
         {
           "@type": "PropertyValue",
@@ -111682,7 +111682,7 @@
         "@id": "https://originopenfoundation.org/content/v/validos-vdts.html#webpage"
       },
       "keywords": [
-        "VALIDOS™ — Validation Governance Architecture",
+        "VALIDOS® — Validation Governance Architecture",
         "AI & Interpretation",
         "Validation Governance",
         "Validation Determination"
@@ -111690,7 +111690,7 @@
       "about": [
         {
           "@type": "Thing",
-          "name": "VALIDOS™ — Validation Governance Architecture"
+          "name": "VALIDOS® — Validation Governance Architecture"
         },
         {
           "@type": "Thing",
@@ -111796,7 +111796,7 @@
         {
           "@type": "PropertyValue",
           "name": "Architecture",
-          "value": "VALIDOS™ — Validation Governance Architecture"
+          "value": "VALIDOS® — Validation Governance Architecture"
         },
         {
           "@type": "PropertyValue",
@@ -112403,7 +112403,7 @@
         "@id": "https://originopenfoundation.org/content/v/validos-vefs.html#webpage"
       },
       "keywords": [
-        "VALIDOS™ — Validation Governance Architecture",
+        "VALIDOS® — Validation Governance Architecture",
         "AI & Interpretation",
         "Validation Governance",
         "Validation Evidence Fitness"
@@ -112411,7 +112411,7 @@
       "about": [
         {
           "@type": "Thing",
-          "name": "VALIDOS™ — Validation Governance Architecture"
+          "name": "VALIDOS® — Validation Governance Architecture"
         },
         {
           "@type": "Thing",
@@ -112512,7 +112512,7 @@
         {
           "@type": "PropertyValue",
           "name": "Architecture",
-          "value": "VALIDOS™ — Validation Governance Architecture"
+          "value": "VALIDOS® — Validation Governance Architecture"
         },
         {
           "@type": "PropertyValue",
@@ -113119,7 +113119,7 @@
         "@id": "https://originopenfoundation.org/content/v/validos-vexs.html#webpage"
       },
       "keywords": [
-        "VALIDOS™ — Validation Governance Architecture",
+        "VALIDOS® — Validation Governance Architecture",
         "AI & Interpretation",
         "Validation Governance",
         "Validation Execution"
@@ -113127,7 +113127,7 @@
       "about": [
         {
           "@type": "Thing",
-          "name": "VALIDOS™ — Validation Governance Architecture"
+          "name": "VALIDOS® — Validation Governance Architecture"
         },
         {
           "@type": "Thing",
@@ -113233,7 +113233,7 @@
         {
           "@type": "PropertyValue",
           "name": "Architecture",
-          "value": "VALIDOS™ — Validation Governance Architecture"
+          "value": "VALIDOS® — Validation Governance Architecture"
         },
         {
           "@type": "PropertyValue",
@@ -113840,7 +113840,7 @@
         "@id": "https://originopenfoundation.org/content/v/validos-vmts.html#webpage"
       },
       "keywords": [
-        "VALIDOS™ — Validation Governance Architecture",
+        "VALIDOS® — Validation Governance Architecture",
         "AI & Interpretation",
         "Validation Governance",
         "Validation Method"
@@ -113848,7 +113848,7 @@
       "about": [
         {
           "@type": "Thing",
-          "name": "VALIDOS™ — Validation Governance Architecture"
+          "name": "VALIDOS® — Validation Governance Architecture"
         },
         {
           "@type": "Thing",
@@ -113944,7 +113944,7 @@
         {
           "@type": "PropertyValue",
           "name": "Architecture",
-          "value": "VALIDOS™ — Validation Governance Architecture"
+          "value": "VALIDOS® — Validation Governance Architecture"
         },
         {
           "@type": "PropertyValue",
@@ -114551,7 +114551,7 @@
         "@id": "https://originopenfoundation.org/content/v/validos-vobs.html#webpage"
       },
       "keywords": [
-        "VALIDOS™ — Validation Governance Architecture",
+        "VALIDOS® — Validation Governance Architecture",
         "AI & Interpretation",
         "Validation Governance",
         "Validation Object"
@@ -114559,7 +114559,7 @@
       "about": [
         {
           "@type": "Thing",
-          "name": "VALIDOS™ — Validation Governance Architecture"
+          "name": "VALIDOS® — Validation Governance Architecture"
         },
         {
           "@type": "Thing",
@@ -114655,7 +114655,7 @@
         {
           "@type": "PropertyValue",
           "name": "Architecture",
-          "value": "VALIDOS™ — Validation Governance Architecture"
+          "value": "VALIDOS® — Validation Governance Architecture"
         },
         {
           "@type": "PropertyValue",
@@ -115262,7 +115262,7 @@
         "@id": "https://originopenfoundation.org/content/v/validos-vpss.html#webpage"
       },
       "keywords": [
-        "VALIDOS™ — Validation Governance Architecture",
+        "VALIDOS® — Validation Governance Architecture",
         "AI & Interpretation",
         "Validation Governance",
         "Validation Purpose & Scope"
@@ -115270,7 +115270,7 @@
       "about": [
         {
           "@type": "Thing",
-          "name": "VALIDOS™ — Validation Governance Architecture"
+          "name": "VALIDOS® — Validation Governance Architecture"
         },
         {
           "@type": "Thing",
@@ -115371,7 +115371,7 @@
         {
           "@type": "PropertyValue",
           "name": "Architecture",
-          "value": "VALIDOS™ — Validation Governance Architecture"
+          "value": "VALIDOS® — Validation Governance Architecture"
         },
         {
           "@type": "PropertyValue",
@@ -115978,7 +115978,7 @@
         "@id": "https://originopenfoundation.org/content/v/validos-vrrs.html#webpage"
       },
       "keywords": [
-        "VALIDOS™ — Validation Governance Architecture",
+        "VALIDOS® — Validation Governance Architecture",
         "AI & Interpretation",
         "Validation Governance",
         "Validation Reliance & Revalidation"
@@ -115986,7 +115986,7 @@
       "about": [
         {
           "@type": "Thing",
-          "name": "VALIDOS™ — Validation Governance Architecture"
+          "name": "VALIDOS® — Validation Governance Architecture"
         },
         {
           "@type": "Thing",
@@ -116082,7 +116082,7 @@
         {
           "@type": "PropertyValue",
           "name": "Architecture",
-          "value": "VALIDOS™ — Validation Governance Architecture"
+          "value": "VALIDOS® — Validation Governance Architecture"
         },
         {
           "@type": "PropertyValue",
@@ -116689,7 +116689,7 @@
         "@id": "https://originopenfoundation.org/content/v/validos-vsgs.html#webpage"
       },
       "keywords": [
-        "VALIDOS™ — Validation Governance Architecture",
+        "VALIDOS® — Validation Governance Architecture",
         "AI & Interpretation",
         "Validation Governance",
         "Validation State Governance"
@@ -116697,7 +116697,7 @@
       "about": [
         {
           "@type": "Thing",
-          "name": "VALIDOS™ — Validation Governance Architecture"
+          "name": "VALIDOS® — Validation Governance Architecture"
         },
         {
           "@type": "Thing",
@@ -116798,7 +116798,7 @@
         {
           "@type": "PropertyValue",
           "name": "Architecture",
-          "value": "VALIDOS™ — Validation Governance Architecture"
+          "value": "VALIDOS® — Validation Governance Architecture"
         },
         {
           "@type": "PropertyValue",
@@ -117405,7 +117405,7 @@
         "@id": "https://originopenfoundation.org/content/v/validos-vsrs.html#webpage"
       },
       "keywords": [
-        "VALIDOS™ — Validation Governance Architecture",
+        "VALIDOS® — Validation Governance Architecture",
         "AI & Interpretation",
         "Validation Governance",
         "Validation Source Reliability"
@@ -117413,7 +117413,7 @@
       "about": [
         {
           "@type": "Thing",
-          "name": "VALIDOS™ — Validation Governance Architecture"
+          "name": "VALIDOS® — Validation Governance Architecture"
         },
         {
           "@type": "Thing",
@@ -117509,7 +117509,7 @@
         {
           "@type": "PropertyValue",
           "name": "Architecture",
-          "value": "VALIDOS™ — Validation Governance Architecture"
+          "value": "VALIDOS® — Validation Governance Architecture"
         },
         {
           "@type": "PropertyValue",

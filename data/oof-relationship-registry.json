@@ -3,18 +3,18 @@
   "methodology": "OOF® Governed Linking Methodology",
   "architecture": {
     "id": "VALIDOS",
-    "title": "VALIDOS™ — Validation Governance Architecture",
+    "title": "VALIDOS® — Validation Governance Architecture",
     "resources": [
       {
-        "title": "About VALIDOS™ — Validation Governance Architecture",
+        "title": "About VALIDOS® — Validation Governance Architecture",
         "url": "content/v/validos-about.html"
       },
       {
-        "title": "VALIDOS™ Architecture Map",
+        "title": "VALIDOS® Architecture Map",
         "url": "content/v/validos-architecture-map.html"
       },
       {
-        "title": "VALIDOS™ Validation Governance Architecture — Validation Governance Layer",
+        "title": "VALIDOS® Validation Governance Architecture — Validation Governance Layer",
         "url": "content/v/validos-architecture.html"
       },
       {
@@ -22,7 +22,7 @@
         "url": "content/v/validos-complete-index.html"
       },
       {
-        "title": "VALIDOS™ — Four-Layer Validation Protocol™",
+        "title": "VALIDOS® — Four-Layer Validation Protocol™",
         "url": "content/v/validos-four-layer-validation-protocol.html"
       }
     ],

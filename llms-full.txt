@@ -1592,11 +1592,11 @@
 
 ## content/v
 
-- [About VALIDOS™ — Validation Governance Architecture](https://originopenfoundation.org/content/v/validos-about.html)
-- [VALIDOS™ Architecture Map](https://originopenfoundation.org/content/v/validos-architecture-map.html)
-- [VALIDOS™ Validation Governance Architecture — Validation Governance Layer](https://originopenfoundation.org/content/v/validos-architecture.html)
+- [About VALIDOS® — Validation Governance Architecture](https://originopenfoundation.org/content/v/validos-about.html)
+- [VALIDOS® Architecture Map](https://originopenfoundation.org/content/v/validos-architecture-map.html)
+- [VALIDOS® Validation Governance Architecture — Validation Governance Layer](https://originopenfoundation.org/content/v/validos-architecture.html)
 - [VALIDOS® Complete Standards & Modules Index](https://originopenfoundation.org/content/v/validos-complete-index.html)
-- [VALIDOS™ — Four-Layer Validation Protocol™](https://originopenfoundation.org/content/v/validos-four-layer-validation-protocol.html)
+- [VALIDOS® — Four-Layer Validation Protocol™](https://originopenfoundation.org/content/v/validos-four-layer-validation-protocol.html)
 - [About Validation Criteria Standard](https://originopenfoundation.org/content/v/validos-vcrs-about.html)
 - [Validation Acceptance & Rejection Conditions Module (VARCM)](https://originopenfoundation.org/content/v/validos-vcrs-varcm-4.html)
 - [Validation Criteria Coherence Module (VCCM)](https://originopenfoundation.org/content/v/validos-vcrs-vccm-5.html)

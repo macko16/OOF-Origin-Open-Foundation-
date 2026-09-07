@@ -53,11 +53,11 @@ COMPATIBILITY = {
 }
 
 ARCHITECTURE_RESOURCES = [
-    {"title": "About VALIDOS™ — Validation Governance Architecture", "url": "content/v/validos-about.html"},
-    {"title": "VALIDOS™ Architecture Map", "url": "content/v/validos-architecture-map.html"},
-    {"title": "VALIDOS™ Validation Governance Architecture — Validation Governance Layer", "url": "content/v/validos-architecture.html"},
+    {"title": "About VALIDOS® — Validation Governance Architecture", "url": "content/v/validos-about.html"},
+    {"title": "VALIDOS® Architecture Map", "url": "content/v/validos-architecture-map.html"},
+    {"title": "VALIDOS® Validation Governance Architecture — Validation Governance Layer", "url": "content/v/validos-architecture.html"},
     {"title": "VALIDOS® Complete Standards & Modules Index", "url": "content/v/validos-complete-index.html"},
-    {"title": "VALIDOS™ — Four-Layer Validation Protocol™", "url": "content/v/validos-four-layer-validation-protocol.html"},
+    {"title": "VALIDOS® — Four-Layer Validation Protocol™", "url": "content/v/validos-four-layer-validation-protocol.html"},
 ]
 
 CROSS_ARCHITECTURE = [
@@ -166,7 +166,7 @@ def discover_registry() -> dict:
         "methodology": "OOF® Governed Linking Methodology",
         "architecture": {
             "id": "VALIDOS",
-            "title": "VALIDOS™ — Validation Governance Architecture",
+            "title": "VALIDOS® — Validation Governance Architecture",
             "resources": ARCHITECTURE_RESOURCES,
             "standards": standards,
             "crossArchitectureInterfaces": CROSS_ARCHITECTURE,
