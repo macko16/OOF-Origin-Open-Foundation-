@@ -103,6 +103,44 @@ function withSiteRoot(url) {
   return getSiteRootPrefix() + url.replace(/^\.\//, "");
 }
 
+function getSiteRootUrl() {
+  const headerScripts = Array.from(document.scripts).filter(script =>
+    /(?:^|\/)header\.js(?:[?#].*)?$/.test(script.src)
+  );
+  const headerScript = headerScripts[headerScripts.length - 1];
+  return headerScript ? new URL(".", headerScript.src) : new URL("./", window.location.href);
+}
+
+function getCurrentPagePdfUrl() {
+  const siteRoot = getSiteRootUrl();
+  const pageUrl = new URL(window.location.href);
+  const rootPath = decodeURIComponent(siteRoot.pathname);
+  const pagePath = decodeURIComponent(pageUrl.pathname);
+  let relativePath = pagePath.startsWith(rootPath)
+    ? pagePath.slice(rootPath.length)
+    : pagePath.replace(/^\/+/, "");
+
+  if (!relativePath || relativePath.endsWith("/")) relativePath += "index.html";
+  relativePath = relativePath.replace(/\.html?$/i, "") + ".pdf";
+  return new URL("pdf/" + relativePath, siteRoot).href;
+}
+
+function setupPagePdfDownload() {
+  const footer = document.querySelector("#footer .footer2, footer.footer2");
+  if (!footer) return;
+
+  let download = footer.querySelector(".page-pdf-download");
+  if (!download) {
+    download = document.createElement("div");
+    download.className = "page-pdf-download";
+    download.innerHTML = '<a download>Download this page as PDF</a>';
+    footer.insertBefore(download, footer.firstChild);
+  }
+
+  const link = download.querySelector("a");
+  if (link) link.href = getCurrentPagePdfUrl();
+}
+
 function normalizePageLinks(root = document) {
   root.querySelectorAll("a[href]").forEach(link => {
     const href = link.getAttribute("href");
@@ -112,6 +150,7 @@ function normalizePageLinks(root = document) {
       link.setAttribute("href", withSiteRoot(href));
     }
   });
+  setupPagePdfDownload();
 }
 
 function toggleBurger() {
